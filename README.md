@@ -2,6 +2,16 @@
 ```
 Tools: Google Earth Engine (GEE); geopandas
 ```
+***
+*Table of Contents<BR> 1. Green Infrastructure Assessment<BR>
+2. Flood Risk Mapping<BR>
+3. Socioeconomic Vulnerability Analysis<BR>
+4. Emergency Response Accessibility Analysis<BR>
+5. Disaster Risk Reduction Planning<BR>
+6. Transportation Network Resilience Analysis (Optional)<BR>
+7. Resource Recovery Analysis (Optional)*
+***
+
 ### 1. *Land Cover & Green Infrastructure Assessment*
 Evaluate the distribution and effectiveness of green spaces (parks, urban forests, wetlands) in Chester County, PA, and Howard County, MD.
 - GEE Land Cover Classification: [Land Cover](GEE_Land_Cover.ipynb)
