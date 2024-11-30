@@ -8,3 +8,4 @@ Evaluate the distribution and effectiveness of green spaces (parks, urban forest
 - GEE NDVI: [NDVI](GEE_NDVI.ipynb)
 
 ### 2. *Flood Risk Mapping*
+For understanding which areas are more susceptible to flooding, allowing for better urban planning, disaster preparedness, and resource allocation.
